@@ -250,6 +250,21 @@ body{
 }
 
 
+footer {
+    width: 100%;
+    height: 80px;
+    background-image: url('./banniereok.jpeg');
+    background-size: cover ;
+
+}
+
+.footer1{
+    width: 1500px;
+    height: 150px;
+}
+
+
+
 /*Media Querries*/
 @media screen and (max-width:823px){
     .right-tittle::after{
