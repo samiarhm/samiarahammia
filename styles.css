@@ -241,7 +241,7 @@ body{
     left: 0;
 }
 
-css :.footer-image {
+.footer-image {
     height: 200px;
     background-position: center;
     border: 2px solid lightpink;
